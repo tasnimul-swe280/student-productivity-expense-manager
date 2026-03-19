@@ -19,19 +19,19 @@ This is a console-based application developed using the C programming language. 
 ##  Project Screenshots
 
 ### Sample Output of Student Productivity & Expense Manager
-![Output](Sample Output of Student Productivity & Expense Manager.png)
+![Output](Sample_Output.png)
 
 ### Adding a New Task
-![Add Task](Adding a New Task.png)
+![Add Task](Add_Task.png)
 
 ### View Task
-![View Task](View Task.png)
+![View Task](View_Task.png)
 
 ###  Add and View Expense
-![Expense](Add and View Expense.png)
+![Expense](View_Expense.png)
 
 ###  System Alert Output
-![Alert](System Alert Output.png)
+![Alert](System_Alert_Output.png)
 
 ## Learning Integration
 This project is developed based on concepts learned from:
